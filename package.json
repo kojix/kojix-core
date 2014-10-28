@@ -2,7 +2,7 @@
   "name": "kojix-core",
   "version": "0.0.0",
   "description": "core of kojix",
-  "main": "",
+  "main": "./lib/kojix-core.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:kojix/kojix-core.git"
@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "coffee-script": "^1.8.0",
-    "mongoose": "^3.8.18"
+    "debug": "^2.1.0",
+    "mongoose": "^3.8.18",
+    "mongoose-schema-extend": "^0.1.7"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
