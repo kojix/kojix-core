@@ -1,0 +1,11 @@
+{
+  "name": "kojix-core",
+  "version": "0..0",
+  "description": "core of kojix",
+  "main": "",
+  "repository": "",
+  "author": "MRW Neundorf <matt@nax.me>",
+  "dependencies": {
+    
+  }
+}

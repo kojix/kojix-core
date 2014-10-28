@@ -1,0 +1,13 @@
+# cloud9 
+.c9
+
+# logs
+*.log
+logs
+
+# osx
+.DS_Store
+
+# npm
+node_modules
+
