@@ -10,12 +10,15 @@
   "author": "MRW Neundorf <matt@nax.me>",
   "homepage": "https://github.com/kojix/kojix-core",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "coffee-script": "^1.8.0",
     "mongoose": "^3.8.18"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
-    "should": "^4.1.0"git 
+    "should": "^4.1.0"
   }
 }
