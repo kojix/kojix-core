@@ -1,11 +1,21 @@
 {
   "name": "kojix-core",
-  "version": "0..0",
+  "version": "0.0.0",
   "description": "core of kojix",
   "main": "",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kojix/kojix-core.git"
+  },
   "author": "MRW Neundorf <matt@nax.me>",
+  "homepage": "https://github.com/kojix/kojix-core",
+  "license": "MIT",
   "dependencies": {
-    
+    "coffee-script": "^1.8.0",
+    "mongoose": "^3.8.18"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.1.0"git 
   }
 }
